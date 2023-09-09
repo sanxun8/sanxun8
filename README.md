@@ -34,24 +34,25 @@
 
 <!-- **📫 How to Reach me:** -->
 
-##Trophy: Github Profile Trophy
+## Trophy: Github Profile Trophy
 
 <p align="center"> 
 	<img src="https://github-profile-trophy.vercel.app/?username=sanxun8" />
 </p>
 
-#### 感谢访问
+### 感谢访问
 
 <p align="center"> 
 	<img src="https://profile-counter.glitch.me/sanxun8/count.svg" />
+</p>
 
 ## 点赞记录
-
+<p align="center">
 	<img src="https://api.star-history.com/svg?repos=sanxun8/sanxun8&type=Date" />
+</p>
 
 ###主页访问量
-	<img src="https://count.getloli.com/get/@sanxun8.github.readme" />
-	</br>
-</p>
+
+![](https://moe-counter.glitch.me/get/@:sanxun8)
 
 ![](https://img1.imgtp.com/2023/09/09/Kj5XGAkU.svg)
