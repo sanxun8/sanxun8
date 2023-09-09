@@ -2,10 +2,10 @@
 
 <!--   my-icons -->
 <p align="center">
-	![](https://img.shields.io/badge/status-updating-brightgreen.svg)
- ![](https://img.shields.io/github/contributors/sanxun8/sanxun8?color=blue)
-   ![](https://img.shields.io/github/stars/sanxun8/sanxun8.svg?logo=github)
-   ![](https://img.shields.io/github/forks/sanxun8/sanxun8.svg?color=blue&logo=github)
+	<img src="https://img.shields.io/badge/status-updating-brightgreen.svg" />
+	<img src="https://img.shields.io/github/contributors/sanxun8/sanxun8?color=blue" />
+	<img src="https://img.shields.io/github/stars/sanxun8/sanxun8.svg?logo=github" />
+	<img src="https://img.shields.io/github/forks/sanxun8/sanxun8.svg?color=blue&logo=github" />
 </p>
 
 
@@ -37,20 +37,20 @@
 ##Trophy: Github Profile Trophy
 
 <p align="center"> 
-	![](https://github-profile-trophy.vercel.app/?username=sanxun8)
+	<img src="https://github-profile-trophy.vercel.app/?username=sanxun8" />
 </p>
 
 #### 感谢访问
 
 <p align="center"> 
-	![](https://profile-counter.glitch.me/sanxun8/count.svg)
+	<img src="https://profile-counter.glitch.me/sanxun8/count.svg" />
 
 ## 点赞记录
 
-![](https://api.star-history.com/svg?repos=sanxun8/sanxun8&type=Date)
+	<img src="https://api.star-history.com/svg?repos=sanxun8/sanxun8&type=Date" />
 
 ###主页访问量
-	![](https://count.getloli.com/get/@sanxun8.github.readme)
+	<img src="https://count.getloli.com/get/@sanxun8.github.readme" />
 	</br>
 </p>
 
