@@ -20,7 +20,7 @@
 <!--   my-skils -->
 
 | Property                                        | Data
-|------------------------------------ -|
+|-------------------------------------------------|
 | **Language / IDE**                              | ![](https://img.shields.io/badge/-nodejs-3776AB?style=flat&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/javascript-3776AB?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/vscode-3776AB?style=flat&logo=visualstudiocode&logoColor=white)   
 | **Domain Knownledge**                           | [![](https://img.shields.io/badge/Web%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Asanxun8&type=Repositories)                                   
 | **CI / CD**                                     | [![](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/sanxun8/sanxun8) [![](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/sanxun8/sanxun8) [![](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/sanxun8/sanxun8)                                       
